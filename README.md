@@ -22,7 +22,7 @@ It follows a **Hierarchical Network Design model** (Core, Distribution, and Acce
 ##  How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/rchethana-19/Enterprise-CPT.git
+   git clone https://github.com/rchethana-19/Enterprise-CiscoPT.git
 2. Review the .pkt file
 
 ##  Network diagram

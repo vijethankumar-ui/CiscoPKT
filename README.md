@@ -32,5 +32,5 @@ Each LAN is connected via its own router, and the routers are linked together to
 4. Test connectivity using ping between PCs across LANs.
 
 ##  Network diagram
-![Network Topology](Screenshot%202025-09-14%20223307.png)
+![Network Topology](cisco.png)
 
